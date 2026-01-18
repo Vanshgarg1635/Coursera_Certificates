@@ -7,7 +7,7 @@ Each lab folder includes its respective Guided project Certificates, with links 
 ## 🎓My Details
 - **Name:** Vansh Garg
 - **Roll NO:** 102353012 
-- **Course Code** UCS654  
+- **Course Code:** UCS654  
 - **Course Name:** Predictive Analytics using Statistics
 
 ## 📂 Repository Structure
