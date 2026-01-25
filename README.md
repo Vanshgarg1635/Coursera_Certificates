@@ -30,3 +30,10 @@ Deep Learning for Real Estate Price Prediction: https://coursera.org/share/50c8b
 Breast Cancer Prediction Using Machine Learning: https://coursera.org/share/45ec8071cdbf1e9364a4663a4ecaa130
 
 Build a CI/CD Pipeline with Docker: From Code to Deployment: https://coursera.org/share/18400618ef5eb47bef8ebe765ad7e6db
+
+
+**LAB-03**
+
+Advanced Relational Database and SQL: https://coursera.org/share/8378b522efe57163d1c942e39e95a2b4
+
+Build a Machine Learning Web App with Streamlit and Python: https://coursera.org/share/87bb1e8be6e2a85119b184204c974f6d
